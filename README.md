@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liwei XU now living in France
+- 👋 Hi, I’m @Liwei Xu now living in France
 - 👀 I’m interested in data analysis, machine learning and computer science
 - 🌱 I’m currently learning Big data, algorithm and international finance
 - 💞️ I’m looking for an internship for 3 months 
